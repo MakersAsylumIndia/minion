@@ -2,9 +2,9 @@
 a 2 servo bipedal mechanism/chassis
 
 final drawings are at 
-/final/mod_svg/minion.dxf
+- /final/mod_svg/minion.dxf
 or
-/final/mod_svg/minion.svg
+- /final/mod_svg/minion.svg
 
 ## IMAGES
 
@@ -22,10 +22,10 @@ or
 
 ![Minion 07](/images/minion_07.png)
 
-##IMPORTANT
+## IMPORTANT
 Work in progress. This was designed for 3mm MDF, but the sheets are actually 2.5mm, so the drawings need some re-work.
 
-##VIDEO
+## VIDEO
 https://www.youtube.com/watch?v=GAyvrINvKVk
 
 
