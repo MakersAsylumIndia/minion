@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg127"
+   viewBox="0 0 1685.29 1456.6899"
+   height="1456.6899mm"
+   width="1685.29mm"
+   version="1.1">
+  <metadata
+     id="metadata131">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Working space 0 0 210 297 -->
+  <defs
+     id="defs12">
+    <radialGradient
+       r="19.570999"
+       gradientTransform="matrix(0.14777,0.23089,-0.2468,0.15795,-26.318,-62.617)"
+       cx="282.64999"
+       cy="29.149"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3661">
+      <stop
+         id="stop2"
+         offset="0"
+         stop-color="#71b2f8" />
+      <stop
+         id="stop4"
+         offset="1"
+         stop-color="#002795" />
+    </radialGradient>
+    <radialGradient
+       r="19.570999"
+       gradientTransform="matrix(0.26631,0.065024,-0.17931,0.73438,-60.668,-36.938)"
+       cx="270.57999"
+       cy="33.900002"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3817">
+      <stop
+         id="stop7"
+         offset="0"
+         stop-color="#ff6d0f" />
+      <stop
+         id="stop9"
+         offset="1"
+         stop-color="#ff1000" />
+    </radialGradient>
+  </defs>
+  <!-- Set display:none to hide FreeCAD Logo -->
+  <g
+     transform="matrix(0,25.4,-25.4,0,842.645,753.745)"
+     id="Ortho_0_1">
+    <g
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+       id="g124"
+       transform="scale(1,-1)">
+      <path
+         d="m -26.5,17 h 4"
+         id="path48" />
+      <path
+         d="m -22.5,17 3,3"
+         id="path50" />
+      <path
+         d="m -19.5,20 h 37"
+         id="path52" />
+      <path
+         d="m 17.5,20 3,-3"
+         id="path54" />
+      <path
+         d="m 20.5,17 h 4"
+         id="path56" />
+      <path
+         d="m 24.5,17 h 3"
+         id="path58" />
+      <path
+         d="m 27.5,17 v 3"
+         id="path60" />
+      <path
+         d="M 27.5,20 V 30"
+         id="path62" />
+      <path
+         d="m 27.5,30 -3,3"
+         id="path64" />
+      <path
+         d="m 24.5,33 h -4"
+         id="path66" />
+      <path
+         d="m 20.5,33 -3,-3"
+         id="path68" />
+      <path
+         d="m 17.5,30 h -37"
+         id="path70" />
+      <path
+         d="m -19.5,30 -3,3"
+         id="path72" />
+      <path
+         d="m -22.5,33 h -4"
+         id="path74" />
+      <path
+         d="m -26.5,33 -3,-3"
+         id="path76" />
+      <path
+         d="M -29.5,30 V 20"
+         id="path78" />
+      <path
+         d="m -29.5,17 v 3"
+         id="path80" />
+      <path
+         d="m -26.5,17 h -3"
+         id="path82" />
+      <path
+         d="m -7.5,23.5 h 15"
+         id="path84" />
+      <path
+         d="m 7.5,23.5 v 3"
+         id="path86" />
+      <path
+         d="m 7.5,26.5 h -15"
+         id="path88" />
+      <path
+         d="m -7.5,26.5 v -3"
+         id="path90" />
+      <circle
+         id="circle92"
+         r="0.5"
+         cy="28"
+         cx="22.700001" />
+      <circle
+         id="circle94"
+         r="0.5"
+         cy="28"
+         cx="-24.5" />
+      <path
+         d="m 24.5,-17 h -4"
+         id="path96" />
+      <path
+         d="m 20.5,-17 -3,-3"
+         id="path98" />
+      <path
+         d="m 17.5,-20 h -37"
+         id="27" />
+      <path
+         d="m -19.5,-20 -3,3"
+         id="28" />
+      <path
+         d="m -22.5,-17 h -4"
+         id="29" />
+      <path
+         d="m -26.5,-17 h -3"
+         id="30" />
+      <path
+         d="m -29.5,-17 v -3"
+         id="31" />
+      <path
+         d="M -29.5,-20 V -30"
+         id="32" />
+      <path
+         d="m -29.5,-30 3,-3"
+         id="33" />
+      <path
+         d="m -26.5,-33 h 4"
+         id="34" />
+      <path
+         d="m -22.5,-33 3,3"
+         id="35" />
+      <path
+         d="m -19.5,-30 h 37"
+         id="36" />
+      <path
+         d="m 17.5,-30 3,-3"
+         id="37" />
+      <path
+         d="m 20.5,-33 h 4"
+         id="38" />
+      <path
+         d="m 24.5,-33 3,3"
+         id="39" />
+      <path
+         d="m 27.5,-30 v 10"
+         id="40" />
+      <path
+         d="m 27.5,-20 v 3"
+         id="41" />
+      <path
+         d="m 24.5,-17 h 3"
+         id="42" />
+      <path
+         d="m -7.5,-26.5 h 15"
+         id="43" />
+      <path
+         d="m 7.5,-26.5 v 3"
+         id="44" />
+      <path
+         d="m 7.5,-23.5 h -15"
+         id="45" />
+      <path
+         d="m -7.5,-23.5 v -3"
+         id="46" />
+      <circle
+         id="circle120"
+         r="0.5"
+         cy="-28"
+         cx="22.700001" />
+      <circle
+         id="circle122"
+         r="0.5"
+         cy="-28"
+         cx="-24.5" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48.349998mm"
+   height="36.349998mm"
+   viewBox="0 0 48.349998 36.349998"
+   id="svg50"
+   sodipodi:docname="pad006.svg"
+   inkscape:version="0.92.1 unknown">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview52"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-843.39837"
+     inkscape:cy="74.362203"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <!-- Working space 0 0 210 297 -->
+  <defs
+     id="defs12">
+    <radialGradient
+       id="radialGradient3661"
+       gradientUnits="userSpaceOnUse"
+       cy="29.149"
+       cx="282.64999"
+       gradientTransform="matrix(0.14777,0.23089,-0.2468,0.15795,-26.318,-62.617)"
+       r="19.570999">
+      <stop
+         stop-color="#71b2f8"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#002795"
+         offset="1"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3817"
+       gradientUnits="userSpaceOnUse"
+       cy="33.900002"
+       cx="270.57999"
+       gradientTransform="matrix(0.26631,0.065024,-0.17931,0.73438,-60.668,-36.938)"
+       r="19.570999">
+      <stop
+         stop-color="#ff6d0f"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#ff1000"
+         offset="1"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+  <!-- Set display:none to hide FreeCAD Logo -->
+  <g
+     id="Ortho_0_0"
+     transform="rotate(-90,4.175,-20)">
+    <g
+       transform="scale(1,-1)"
+       id="g47"
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter">
+      <path
+         id="1"
+         d="M -24,-13 V 13"
+         inkscape:connector-curvature="0" />
+      <path
+         id="2"
+         d="m -24,13 h 8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="3"
+         d="m -16,13 v 8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="4"
+         d="m -16,21 -3,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="5"
+         d="M -19,24 H -49"
+         inkscape:connector-curvature="0" />
+      <path
+         id="6"
+         d="m -49,24 -3,-3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="7"
+         d="M -52,21 V 13"
+         inkscape:connector-curvature="0" />
+      <path
+         id="8"
+         d="m -52,13 h 8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="9"
+         d="M -44,13 V -13"
+         inkscape:connector-curvature="0" />
+      <path
+         id="10"
+         d="m -44,-13 h -8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="11"
+         d="m -52,-13 v -8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="12"
+         d="m -52,-21 3,-3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="13"
+         d="m -49,-24 h 30"
+         inkscape:connector-curvature="0" />
+      <path
+         id="14"
+         d="m -19,-24 3,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="15"
+         d="m -16,-21 v 8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="16"
+         d="m -16,-13 h -8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="17"
+         d="M -29,-9.8 V 9.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="18"
+         d="m -29,9.8 h -9.5"
+         inkscape:connector-curvature="0" />
+      <path
+         id="19"
+         d="M -38.5,9.8 V -9.8"
+         inkscape:connector-curvature="0" />
+      <path
+         id="20"
+         d="M -38.5,-9.8 H -29"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="-21"
+         cy="-19"
+         r="0.5"
+         id="circle39" />
+      <circle
+         cx="-21"
+         cy="19"
+         r="0.5"
+         id="circle41" />
+      <circle
+         cx="-47"
+         cy="-19"
+         r="0.5"
+         id="circle43" />
+      <circle
+         cx="-47"
+         cy="19"
+         r="0.5"
+         id="circle45" />
+    </g>
+  </g>
+</svg>
