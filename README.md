@@ -1,10 +1,11 @@
 # minion
 a 2 servo bipedal mechanism/chassis
 
-final drawings are at 
-- /final/mod_svg/minion.dxf
+final drawings (for 2.35mm thickness sheet) are at 
+- /dxf_2mm35/dxf_2mm35.dxf
+
 or
-- /final/mod_svg/minion.svg
+- /dxf_2mm35/dxf_2mm35.svg
 
 ## IMAGES
 
@@ -23,7 +24,7 @@ or
 ![Minion 07](/images/minion_07.png)
 
 ## IMPORTANT
-Work in progress. This was designed for 3mm MDF, but the sheets are actually 2.5mm, so the drawings need some re-work.
+Work in progress. This was designed for 3mm MDF, but the sheets are actually ~2.5mm, so the drawings need some re-work -- DONE.
 
 ## VIDEO
 https://www.youtube.com/watch?v=GAyvrINvKVk
